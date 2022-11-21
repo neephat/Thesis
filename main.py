@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Aug 12 18:58:24 2018
-@author: Faysal
+@author: Neephat Benazir
 """
 
 from imutils.video import VideoStream
