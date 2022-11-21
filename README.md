@@ -1,4 +1,4 @@
-# Thesis
+# Eye Tracking With Blink Detection
 
 EyeTracker with Blink Detection
 This is a research project which detects user's eyes using webcam; extracts the iris and tracks it to detect where the user is looking at the screen. Also using the blink detection, different actions can be set to be performed when blinked looking at specific part of the monitor.
